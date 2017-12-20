@@ -3,7 +3,7 @@
 ADMIN-EXPRESS est une base de données de l'IGN qui décrit le découpage administratif français,
 notamment celui des communes.
 Elle est mise à jour chaque mois.
-Voir [http://professionnels.ign.fr/adminexpress].    
+Voir (http://professionnels.ign.fr/adminexpress).    
 
 La géométrie d'ADMIN EXPRESS correspond à une résolution de l'ordre de 10 m ce qui conduit à des fichiers
 relativement volumineux pour décrire la France entière.
