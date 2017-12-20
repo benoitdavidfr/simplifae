@@ -15,4 +15,5 @@ L'objectif de Simplifae est de générer des fichiers SVG et GeoJSON les plus l�
 Le processus de simplification enchaine plusieurs scripts utilisant un stockage intermédiaire dans MongoDB.
 Ces scripts sont dans le [répertoire scripts](https://github.com/benoitdavidfr/simplifae2/tree/master/scripts).  
 
-Le [répertoire output](https://github.com/benoitdavidfr/simplifae2/tree/master/output) contient le résultat de la simplification sous la forme de défifférents fichiers.
+le résultat de la simplification sous la forme de différents fichiers est dans le
+[répertoire output](https://github.com/benoitdavidfr/simplifae2/tree/master/output).
